@@ -84,18 +84,18 @@ Currently, Awesome Identity supports: Email, GitHub, Twitter, Facebook, LinkedIn
 
 ```toml
 ## Contacts Configurations
-[params.contacts]
-  email = "john.smith@example.com"
-  github = "john.smith"
-  gitlab = "john.smith"
-  twitter = "john.smith"
-  facebook = "john.smith"
-  linkedin = "john.smith"
-  instagram = "john.smith"
-  stackoverflow = "7919458"
-  keybase = "john.smith"
-  medium = "john.smith"
-  xing = "john.smith"
+## Icons are shown in the order they are listed here.
+[[params.contacts]]
+  service = "email"
+  id = "john.smith@example.com"
+
+[[params.contacts]]
+  service = "github"
+  id = "john.smith"
+
+[[params.contacts]]
+  service = "stackoverflow"
+  id = "7919458"
 ```
 
 ### Footer

@@ -13,24 +13,43 @@ title = "Xander Naumenko"
   portrait = "profile-picture.jpg"
   firstname = "Xander"
   lastname = "Naumenko"
-  title = "Software Dev and Quant Trader"
-  bio = """An Engineering Physics student with a wide variety of experience in trading, software, firmware and electronics. 
+  title = "Quant Trader and Maker"
+  bio = """Full time trading at [**Jane Street**](https://www.janestreet.com/).
 
-Created a [**fully compliant RISC-V CPU inside Terraria**](https://youtu.be/zXPiqk0-zDY), made [**the avionics system for a rocket going to space**](https://github.com/UBC-Rocket/Whistler-Blackcomb-v2) and designed an [**autonomous foosball robot**](https://youtu.be/xrwXZXGiP1w), among other projects. 
+I like working on projects and making YouTube videos about them, such as a [**fully compliant RISC-V CPU inside Terraria**](https://youtu.be/zXPiqk0-zDY), an [**autonomous foosball robot**](https://youtu.be/xrwXZXGiP1w) and [**real-time chess**](https://youtu.be/y7VtSK23_Jg).
 
-  A self professed nerd who has spent altogether far too much time fiddling with Vim/Linux/<span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> config. 
-  """
+I've been known to enjoy [**MTG**](https://mtgeloproject.net/profile/53wwl4hx), running, foosball, chess, piano, ping pong and getting very nerdsniped by [**basically anything**](https://xander.naumenko.com/two-dozen/).
+"""
 
 ## Contacts Configurations
-[params.contacts]
-  email = "xander@naumenko.com"
-  github = "misprit7"
-  youtube = "built-from-scratch"
-  linkedin = "xander-naumenko"
+## Icons are shown in the order they are listed here.
+[[params.contacts]]
+  service = "youtube"
+  id = "built-from-scratch"
 
-[params.actions.resume]
-  name = "See my Resume"
-  url = "./resume.pdf"
+[[params.contacts]]
+  service = "instagram"
+  id = "xander_naumenko"
+
+[[params.contacts]]
+  service = "twitter"
+  id = "xandernaumenko"
+
+[[params.contacts]]
+  service = "tiktok"
+  id = "fromscratch_yt"
+
+[[params.contacts]]
+  service = "github"
+  id = "misprit7"
+
+[[params.contacts]]
+  service = "linkedin"
+  id = "xander-naumenko"
+
+[[params.contacts]]
+  service = "email"
+  id = "xander@naumenko.com"
 
 ## Footer Configurations
 [params.footer]
