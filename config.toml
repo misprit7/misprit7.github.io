@@ -40,6 +40,10 @@ I've been known to enjoy [**MTG**](https://mtgeloproject.net/profile/53wwl4hx), 
   id = "fromscratch_yt"
 
 [[params.contacts]]
+  service = "facebook"
+  id = "people/From-Scratch/61595015126373/"
+
+[[params.contacts]]
   service = "github"
   id = "misprit7"
 
